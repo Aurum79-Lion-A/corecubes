@@ -1,4 +1,4 @@
-# CoreCubes Text Editor
+# CoreCubes Text Editor v1.0
 
 A small, lightweight rich-text editor written in Python with Tkinter. Write plain text, or add headings, fonts, bold, italic and underline, then save to Markdown or to CoreCubes' own `.ccb` format.
 
